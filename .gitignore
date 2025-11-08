@@ -1,0 +1,8 @@
+# Ignorar dependências e arquivos desnecessários
+node_modules/
+.env
+*.tfstate
+*.tfstate.backup
+.terraform/
+__pycache__/
+.vscode/

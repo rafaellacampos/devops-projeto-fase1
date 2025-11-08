@@ -1,0 +1,7 @@
+def test_soma_basica():
+    resultado = 2 + 3
+    assert resultado == 5
+
+def test_texto_presente():
+    texto = "DevOps"
+    assert "DevOps" in texto
