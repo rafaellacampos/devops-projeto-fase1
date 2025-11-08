@@ -23,7 +23,3 @@ README.md → Descrição geral do projeto
 1. Clone este repositório:
    ```bash
    git clone https://github.com/rafaelacm/devops-projeto-fase1.git
-=======
-# devops-projeto-fase1
-Repositório do Projeto DevOps – Fase 1: Configuração e Automação Inicial
->>>>>>> a91047fea26fad688c964b437b8a4398a6e61923
